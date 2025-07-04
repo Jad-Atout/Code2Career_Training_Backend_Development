@@ -17,6 +17,7 @@ This program is designed to build strong practical skills in backend development
 ## 📁 Repository Structure
 
 Each task, project, or milestone is organized in its own folder:
+```
 Code2Career-Training---Backend-Development/
 ├── Task1/
 ├── Task2/
@@ -24,6 +25,7 @@ Code2Career-Training---Backend-Development/
 ├── ...
 ├── Roadmap.pdf
 └── README.md
+```
 ---
 
 ## 🗺️ Roadmap Overview
