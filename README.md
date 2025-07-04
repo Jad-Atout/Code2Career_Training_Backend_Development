@@ -1,4 +1,4 @@
-# 🚀 GSG_C2C – Code2Career Training Tasks
+# 🚀 Code2Career Training Tasks
 
 Welcome! This repository is used for **grouping all my tasks and projects** during my training with **Gaza Sky Geeks (GSG)** for the **Code2Career Training – Backend Development** program.
 
