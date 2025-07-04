@@ -5,15 +5,21 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="de1d20b1-e055-4805-9fda-c72fcffd9130" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Book Patterns Task/.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library System/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library System/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Task1/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Task1/package.json" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -44,6 +50,7 @@
     "Node.js.index.js.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/HP/WebstormProjects/GSG_C2C/Library System",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -53,6 +60,11 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\HP\WebstormProjects\GSG_C2C\Library System" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -69,7 +81,7 @@
       <option name="presentableId" value="Default" />
       <updated>1751630941525</updated>
       <workItem from="1751630942546" duration="2886000" />
-      <workItem from="1751640364182" duration="1273000" />
+      <workItem from="1751640364182" duration="3925000" />
     </task>
     <servers />
   </component>
